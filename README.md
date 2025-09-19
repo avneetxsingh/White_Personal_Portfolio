@@ -54,16 +54,7 @@ I’m passionate about building creative, impactful projects and turning ideas i
 
 ------------------------------------------------------
 🔗 Connect With Me
-------------------------------------------------------
-Portfolio: your-portfolio-link.com  
+------------------------------------------------------ 
 LinkedIn: linkedin.com/in/avneetxsingh  
 GitHub: github.com/avneetxsingh  
-Email: your.email@example.com  
-
-------------------------------------------------------
-⭐ Acknowledgements
-------------------------------------------------------
-This project was inspired by CodeBucks React Portfolio with my own customizations:
-- Added Variable Proximity & Decrypted Text animations
-- Enhanced experience timeline
-- Personal branding, content, and styling
+Email: info.avneetsingh@gmail.com
